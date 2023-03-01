@@ -1,0 +1,11 @@
+level 3
+minRooms 10
+maxRooms 12
+minEnemies 3
+maxEnemies 5
+minObjects 2
+maxObjects 3
+minObstacles% 10
+maxObstacles% 15
+enemyHealth 120
+enemyDamage 14

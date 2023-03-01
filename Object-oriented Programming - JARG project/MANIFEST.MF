@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+Rsrc-Class-Path: ./ jogg-0.0.7.jar jorbis-0.0.15.jar lwjgl_util.jar lwjg
+ l-sources.jar lwjgl.jar slick.jar org.junit.jupiter.api_5.5.1.v20190826
+ -0900.jar org.junit.jupiter.engine_5.5.1.v20190826-0900.jar org.junit.j
+ upiter.migrationsupport_5.5.1.v20190826-0900.jar org.junit.jupiter.para
+ ms_5.5.1.v20190826-0900.jar org.junit.platform.commons_1.5.1.v20190826-
+ 0900.jar org.junit.platform.engine_1.5.1.v20190826-0900.jar org.junit.p
+ latform.launcher_1.5.1.v20190826-0900.jar org.junit.platform.runner_1.5
+ .1.v20190826-0900.jar org.junit.platform.suite.api_1.5.1.v20190826-0900
+ .jar org.junit.vintage.engine_5.5.1.v20190826-0900.jar org.opentest4j_1
+ .2.0.v20190826-0900.jar org.apiguardian_1.1.0.v20190826-0900.jar junit.
+ jar org.hamcrest.core_1.3.0.v20180420-1519.jar
+Rsrc-Main-Class: main.coordination.init.StateCoord
+Class-Path: .
+Add-Opens: java.base/java.lang
